@@ -23,6 +23,8 @@ This repo contains the homework base code relative to the *Giraph Tutorial*
 
 **Before starting read the [instructions](https://github.com/manuelcoppotelli/giraph-homework/blob/master/giraph_homework_text.pdf) carefully**
 
+> Homework deadline is 20 December 2016 at 23:59
+
 You can find the demo code seen during the tutorial at this [repo](https://github.com/manuelcoppotelli/giraph-demo).
 
 You can find the related presentation on [Slideshare](http://www.slideshare.net/ManuelCoppotelli/apache-giraph-largescale-graph-processing-done-better).
